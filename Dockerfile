@@ -1,5 +1,5 @@
 FROM node:20
-COPY . /acckwu
+COPY . .
 
 RUN npm install
 CMD ["npm", "start"]

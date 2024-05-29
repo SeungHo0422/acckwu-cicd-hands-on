@@ -1,0 +1,15 @@
+{
+  "name": "acckwu-wnd-hands-on",
+  "version": "1.0.0",
+  "description": "docker, cicd handson file in acckwu, 20240529",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Seungho Song",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

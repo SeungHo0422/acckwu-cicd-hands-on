@@ -5,4 +5,4 @@ app.get('/', (req, res) => {
     res.send("Hello ACCKWU! 으헤헤헤헤")
 })
 
-app.listen(5001)
+app.listen(5000)
